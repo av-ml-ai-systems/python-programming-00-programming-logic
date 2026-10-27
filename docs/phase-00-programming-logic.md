@@ -129,19 +129,50 @@ Consequently, every solution should first be designed conceptually before implem
 
 ---
 
-## 6. Module Roadmap
+## 6. Complete Python Programming Roadmap Phase 0
 
-### Module 1 — What is Programming?
+### Module 01 — What Is Programming?
+- What is a program?
+- Algorithms vs. programs.
+- Programming languages.
+- Programming as problem-solving.
 
-### Module 2 — Computational Thinking
+### Module 02 — Computational Thinking
+- Computational thinking.
+- Problem decomposition.
+- Pattern recognition.
+- Introduction to abstraction.
+- Identifying relevant information and requirements.
 
-### Module 3 — Program Execution Fundamentals
+### Module 03 — Program Execution Fundamentals
+- Inputs, processing, and outputs.
+- Variables as memory.
+- State changes.
+- Sequential execution.
+- Decision making.
+- Repetition.
 
-### Module 4 — Algorithm Design
+### Module 04 — Algorithm Design and Representation
+- What is an algorithm?
+- Writing algorithms before coding.
+- Pseudocode.
+- Flowcharts.
+- Converting problem requirements into logical steps.
 
-### Module 5 — Reading, Tracing, and Debugging Algorithms
+### Module 05 — Reading, Tracing, and Debugging Algorithms
+- Reading code.
+- Tracing code manually.
+- Dry runs.
+- Identifying logical errors.
+- Debugging strategies.
+- Verifying algorithm behavior.
 
-### Module 6 — Problem Solving and Abstraction
+### Module 06 — Problem Solving and Abstraction
+- Converting real-world problems into algorithms.
+- Applying computational thinking techniques together.
+- Identifying constraints and edge cases.
+- Choosing appropriate levels of abstraction.
+- Designing complete solutions to practical problems.
 
 ---
 
